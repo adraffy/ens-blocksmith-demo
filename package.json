@@ -1,0 +1,11 @@
+{
+	"type": "module",
+	"devDependencies": {
+		"@adraffy/blocksmith": "^0.1.47",
+		"@types/bun": "latest",
+		"ethers": "^6.13.4"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
